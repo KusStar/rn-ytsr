@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ytsr",
+  "name": "rn-ytsr",
   "version": "0.0.1",
   "description": "Simple package to search YouTube - no strings attached.",
   "keywords": [
@@ -15,16 +15,16 @@
     "pagination",
     "promise"
   ],
-  "homepage": "https://github.com/TimeForANinja/node-ytsr#readme",
+  "homepage": "https://github.com/kusstar/rn-ytsr#readme",
   "bugs": {
-    "url": "https://github.com/TimeForANinja/node-ytsr/issues"
+    "url": "https://github.com/kusstar/rn-ytsr/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TimeForANinja/node-ytsr.git"
+    "url": "git://github.com/kusstar/rn-ytsr.git"
   },
   "license": "MIT",
-  "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
+  "author": "Kuss (https://github.com/Kusstar)",
   "main": "./lib/index.js",
   "types": "./typings/index.d.ts",
   "files": [

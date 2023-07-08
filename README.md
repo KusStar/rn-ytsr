@@ -1,4 +1,7 @@
-# node-ytsr
+# rn-ytsr
+
+Modified from [node-ytsr](https://github.com/TimeForANinja/node-ytsr) to work with React Native.
+
 [![NPM version](https://img.shields.io/npm/v/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
 [![NPM downloads](https://img.shields.io/npm/dt/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
 [![codecov](https://codecov.io/gh/timeforaninja/node-ytsr/branch/master/graph/badge.svg)](https://codecov.io/gh/timeforaninja/node-ytsr)
